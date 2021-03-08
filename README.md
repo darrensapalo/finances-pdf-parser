@@ -27,3 +27,8 @@ Perform aggregate rules on variable expenses
 - [ ] Review my monthly expenditure
 
 - [ ] Determine planned investment, savings, etc.
+
+
+### Dependencies
+
+* [pdfparser](https://github.com/KarmaPenny/pdfparser)
